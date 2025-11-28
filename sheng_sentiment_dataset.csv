@@ -1,0 +1,139 @@
+text,label,language_mix
+"Niko rada leo, life iko soft sana.",positive,uni-sheng
+"Umeomoka buda, hiyo deal ilikuwa fire.",positive,sheng-heavy
+"Hii sem imekuwa fiti, grades ziko juu kiasi.",positive,uni-sheng
+"Tumeshinda class tukacheka tu, hakuna stress leo.",positive,uni-sheng
+"Leo tumechapa sherehe mbaya, ilikuwa noma but fiti.",positive,sheng-heavy
+"Assignment ya stats nimeimaliza mapema, najifeel.",positive,uni-sheng
+"Boss alinipatia promotion, niko na morale sana.",positive,light-sheng
+"Squadi yangu ni true, hawa wasee hunipea nguvu.",positive,sheng-heavy
+"Nilipata refund ya dough yangu, nimefurai sana.",positive,sheng-heavy
+"Lecture ya leo ilikuwa poa, madam aliexplain vizuri.",positive,light-sheng
+"Niko na energy leo, nitaenda gym after class.",positive,uni-sheng
+"Mama alinipigia akasema ako proud na mimi.",positive,light-sheng
+"Project ya group imecome through, tumepewa good marks.",positive,uni-sheng
+"Wasee wa hostel ni wasee fiti, wananihold down.",positive,sheng-heavy
+"Deal ya kuhost event iliwork, tumechapa profit.",positive,uni-sheng
+"Nilipata internship mail, naskia tu kucelebrate.",positive,light-sheng
+"Crush amenireply DM, mood yangu imepanda.",positive,uni-sheng
+"Kazi ya side hustle inanilipa, sina stress ya pocket.",positive,sheng-heavy
+"Tulicheza match na tukawachapa two nil, team iko form.",positive,uni-sheng
+"Simu yangu mpya iko smooth, nimeupgrade life kidogo.",positive,light-sheng
+"Hata kama ni ngori, najua things zitakuwa sawa.",positive,light-sheng
+"Class rep ameorganize revision, itatusaidia sana.",positive,uni-sheng
+"Leo chapel ilikuwa lit, worship imenitouch.",positive,light-sheng
+"Tulifanya presentation na lec akatupraise vibaya.",positive,uni-sheng
+"Nimeanza kusave kakitu, future inaonekana poa.",positive,light-sheng
+"Mpesa imeingia on time, landlord hatanistress leo.",positive,light-sheng
+"Group ya chama imetuinvestia poa, returns zinaingia.",positive,light-sheng
+"Tulifanya clean up drive na community ilifurahia.",positive,uni-sheng
+"Nimepunguza social media na mind yangu iko calm.",positive,light-sheng
+"Nilipata A kwa project ya data, efforts hazikuenda bure.",positive,uni-sheng
+"Coach aliniambia nimeimprove sana kwa training.",positive,uni-sheng
+"Nimelearn kupika ugali proper, wasee wa room wameshukuru.",positive,sheng-heavy
+"Kanjo hawakutusumbua leo CBD, shopping ilienda smooth.",positive,sheng-heavy
+"Tulipata cheaper hostel, rent imeshuka kidogo.",positive,light-sheng
+"Msee wa kinyozi alinipea fresh cut, najifeel smart.",positive,light-sheng
+"Hata kama syllabus ni ndefu, tunaicrush pole pole.",positive,uni-sheng
+"Plot ya weekend iko ready, tutaenda movie night.",positive,uni-sheng
+"Nilifanya revision na nikaelewa topics vizuri.",positive,uni-sheng
+"Parents wangu wamenisupport sana, nashukuru God.",positive,light-sheng
+"Nimeacha kukaa late online, naona health ina improve.",positive,light-sheng
+"Online gig imenilipa dolla, naskia niko global.",positive,sheng-heavy
+"Wasee wa class wamekua supportive, hakuna beef.",positive,uni-sheng
+"Tulifanya hackathon tukashika position ya pili.",positive,uni-sheng
+"Nimejoin gym ya school, body goals zita come through.",positive,uni-sheng
+"Kusoma library usiku kulisaidia sana for mid sems.",positive,uni-sheng
+
+"Hii life imenichoka, kila kitu inaenda left.",negative,sheng-heavy
+"Bro niko chini, results zimenimaliza vibaya.",negative,uni-sheng
+"Rent imeshinda, landlord amenipigia simu mara tano.",negative,light-sheng
+"Nilidedi paper ya jana, maswali zilikuwa toxic.",negative,uni-sheng
+"Job hakuna, nimeapply kila mahali wananyamza tu.",negative,light-sheng
+"Wallet iko dry, kakitu hakuna kabisa.",negative,sheng-heavy
+"Squad haitoshi tena, wasee wamekua fake sana.",negative,sheng-heavy
+"Relationship imeparara, hatuelewani kabisa.",negative,light-sheng
+"Network ya leo ni rubbish, online class imebust.",negative,uni-sheng
+"Mat fare imepanda, wallet yangu haiwezi shika.",negative,light-sheng
+"Nimechoka na hizi strikes, studies zangu zina hang.",negative,uni-sheng
+"Simu imenibreak, data yote imepotea.",negative,light-sheng
+"Leo nimekula blackout, tokens zimeisha ghafla.",negative,light-sheng
+"Bestie amenigost, sijui hata what I did wrong.",negative,uni-sheng
+"Nilikuwa na hopes za scholarship, but sikuqualify.",negative,light-sheng
+"Hii group work imekuwa toxic, watu hawafanyi kitu.",negative,uni-sheng
+"Sijalala poa for weeks, assignments zimenibeba.",negative,uni-sheng
+"Kuna pressure ya home, kila mtu anangoja nisaidie.",negative,light-sheng
+"Food kwa mess leo ilikuwa chini, nimeskia tu vibaya.",negative,uni-sheng
+"Mat dere alinishout mbele ya watu, nikaumia psyche.",negative,sheng-heavy
+"Nilipoteza wallet tao, sina ID wala ATM.",negative,light-sheng
+"Hii cold imesema, sina sweta ya maana.",negative,light-sheng
+"Roommate wangu ni noisy, siwezi soma kwa amani.",negative,uni-sheng
+"Boarding fees bado sijamaliza, na exam iko karibu.",negative,light-sheng
+"Nilijaribu business ya mitumba ikaanguka vibaya.",negative,sheng-heavy
+"Niko stressed na kuqueue kwa admin, process ni mrefu.",negative,light-sheng
+"System ya portal imecrash, hatuwezi register.",negative,uni-sheng
+"WiFi ya school leo inakatikatika, online class imesuffer.",negative,uni-sheng
+"Nilichelewa exam kwa sababu ya jam, psyche yangu ilienda.",negative,light-sheng
+"Nilipata remark ya assignment bila explanation, imeniboo.",negative,uni-sheng
+"Mkopo ya HELB haijacome, budget yangu imecrumble.",negative,light-sheng
+"Dawa nimenunua haiwork, bado naskia homa mbaya.",negative,light-sheng
+"Chairman wa group anashout kila saa, hakuna respect.",negative,uni-sheng
+"Kwa hostel maji hakuna, tumerun buckets dry.",negative,uni-sheng
+"KPLC wamekata stima bila notice, assignment imebaki.",negative,light-sheng
+"Nimegombana na roommate juu ya dishes, room imekuwa cold.",negative,uni-sheng
+"Mat gari ilitubeba over capacity, ilikuwa risk sana.",negative,sheng-heavy
+"Niliongezwa fare midway, sikuwa na option.",negative,sheng-heavy
+"Security ya hostel haiko serious, milango haina lock poa.",negative,light-sheng
+"Nilitumwa dough na haijafika, naanza kuwa worried.",negative,light-sheng
+"Dawa ya cafeteria kila siku ni ile ile, inanibo.",negative,uni-sheng
+"Kaz ya kuprint notes kila siku inanimaliza coins.",negative,uni-sheng
+"Nilishare idea class wakaicheka, imehurt kidogo.",negative,uni-sheng
+"Kuna rumors za supplementary, stress imepanda.",negative,uni-sheng
+"Siku hizi naskia lonely hata nikiwa na watu.",negative,light-sheng
+
+"Tuko base tu hostel, tunaangalia movie pole pole.",neutral,uni-sheng
+"Niko CBD nikangoja mat, baridi imeingia kidogo.",neutral,light-sheng
+"Kesho tuko exam, saa hii naorganize notes.",neutral,uni-sheng
+"Lecture iko at eleven, saizi niko kwa library.",neutral,uni-sheng
+"Leo sitoki, nitasettle tu kwa room niskize music.",neutral,light-sheng
+"Jioni tutaenda stage tukamate mat ya home.",neutral,light-sheng
+"Nilimeet mse wa high school, tukapiga story kidogo.",neutral,light-sheng
+"Tuko group discussion, kila mtu anacheki question yake.",neutral,uni-sheng
+"Hostel kitchen iko busy, wasee wanapika supper.",neutral,uni-sheng
+"Kesho ni Friday, timetable iko light tu.",neutral,uni-sheng
+"Nitaspend weekend home, tu kutulia na familia.",neutral,light-sheng
+"Kesho tuko friendly match, tutaona vile itaenda.",neutral,uni-sheng
+"Nimebook seat ya mat ya asubuhi, safari itaisha mapema.",neutral,light-sheng
+"Leo class ilikuwa short, lec aliend early.",neutral,uni-sheng
+"Ninaenda stage saa hii, traffic inaonekana normal.",neutral,light-sheng
+"Niko kwa queue ya cafeteria, nangoja order yangu.",neutral,uni-sheng
+"Tuna plan group meeting jioni, bado hatujachagua venue.",neutral,uni-sheng
+"Nilicheki timetable, next week iko tight kidogo.",neutral,uni-sheng
+"Ninapanga kufanya laundry kesho asubuhi.",neutral,light-sheng
+"Leo nimebaki hostel the whole day, nothing special.",neutral,uni-sheng
+"Niko kwa town nikitafuta notebook na pen.",neutral,light-sheng
+"Hostel warden amepass tu kuangalia rooms.",neutral,uni-sheng
+"Tulipata email ya new rules za library.",neutral,uni-sheng
+"Jana tuliona eclipse kwa news tu, sio live.",neutral,light-sheng
+"Kesho after class nitatoka tu nitembee campus.",neutral,uni-sheng
+"Leo tumeenda chapel then tukarudi hostel straight.",neutral,uni-sheng
+"Nimechange timetable, sasa class ya morning iko Tuesday.",neutral,uni-sheng
+"Nilipita kwa cafeteria nikaangalia menu tu.",neutral,light-sheng
+"Nimeupdate CV yangu na units mpya.",neutral,light-sheng
+"Jana tulikaa lab tukasort data bila matata.",neutral,uni-sheng
+"Niko ndani ya mat naskiza radio ya dere.",neutral,sheng-heavy
+"Tulicheck highlights za game kwa phone ya boy wa room.",neutral,uni-sheng
+"Nimeandika to do list ya wiki hii kwa diary.",neutral,light-sheng
+"Hostel corridor leo iko quiet sana.",neutral,uni-sheng
+"Nilipitia stage ya Madaraka before kuenda tao.",neutral,light-sheng
+"Nimepeana laptop kwa fundi acheki keyboard.",neutral,light-sheng
+"Leo nimevaa hoodie na jeans kawaida tu.",neutral,light-sheng
+"Class tulipewa take home assignment badala ya test.",neutral,uni-sheng
+"Nimekeep phone silent the whole lecture.",neutral,uni-sheng
+"Tulicancel group meeting, kila mtu ako busy.",neutral,uni-sheng
+"Nimebookmark video za revision kwa YouTube.",neutral,light-sheng
+"Jana mvua ilinyesha usiku pekee, mchana ilikuwa clear.",neutral,light-sheng
+"Nimeadd new playlist ya worship kwa Spotify.",neutral,light-sheng
+"Nimeprint notes then nikaenda library kusoma kidogo.",neutral,uni-sheng
+"Tuliongea na lec briefly kwa corridor about project.",neutral,uni-sheng
+
